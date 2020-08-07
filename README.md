@@ -60,7 +60,7 @@ Inside makePolygon() is also called the linesIntersect() function which passes 8
 
 ## Τriangulation
 
-For the implementation of triangulation my source code was from FlipCode.com by John W. Ratcliff (jratcliff@verant.com) on July 22, 2000  
+For the implementation of triangulation my source code was from FlipCode.com by John W. Ratcliff
 
 ## CLIPPING
 
