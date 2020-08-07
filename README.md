@@ -27,6 +27,7 @@ By left-clicking(mouse),where the user wants, determines the vertices of the pol
 ##### ATTENTION
 if a vertex is positioned in such a way as to create a Self-intersecting polygon the polygon will not appear on the screen and the user will
 have to recreate a polygon from scratch
+
 Once the user "enters his last vertex" he must right-click to display the polygon he created (automatically by right-clicking(mouse) will
 unite the last vertex with the first one).
 ##### COLORING
