@@ -34,4 +34,4 @@ Before selecting the POLYGON option the user can select the colors he wants his 
 FILL_COLOR (concerning the color of the interior of the polygon). If no color is selected and the POLYGON option is selected immediately, the polygon 
 that the user will create will have WHITE color inside and BLACK outside.
 
-The user can create as many polygons as he wants, curved and non-curved, with whatever colors he wants (following of course the above instructions)
+The user can create as many convex and non-convex polygons as he wants
