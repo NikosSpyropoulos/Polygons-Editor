@@ -1,4 +1,4 @@
-# Polygons-Editor
+# Polygons-Editor (uni-project)
 
 # Purpsose
 
