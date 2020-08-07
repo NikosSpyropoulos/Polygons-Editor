@@ -64,7 +64,7 @@ For the implementation of triangulation my source code was from FlipCode.com by 
 
 ## CLIPPING
 
-For clipping there is a clip_window() function which is called when the user selects CLIPPINGC option to create the "invisible" rectangle. The intesect_point_x() intesect_point_y() clipping() and hodg_suth_algorithm() functions are then used to cut the polygons. (source code from geekforgeeks.com used for this implemantation)
+For clipping there is a clip_window() function which is called when the user selects CLIPPINGC option to create the "invisible" rectangle. The intesect_point_x() intesect_point_y() clipping() and hodg_suth_algorithm() functions are then used to cut the polygons. 
 
 ## EXTRUDE
 
