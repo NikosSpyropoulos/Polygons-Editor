@@ -7,6 +7,10 @@ by using the algorithm Hodgeman-Sutherland and modify polygons from 2 dimensions
 the functionalities of the app). 
 The application is programmed in C++, OpenGl
 
+
+https://user-images.githubusercontent.com/25778156/144764747-dd8f2f54-6514-4b66-a6c4-a47fc296893d.mp4
+
+
 # User Manual
 
 First of all , to open the main window the user should run in the terminal ( Linux os) the command “g++ polygEditor.cpp  -o a -lglut -lGLU -lGL” and after this to run the 
